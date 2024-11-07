@@ -12,7 +12,6 @@ A Jupyter notebook that processes and visualizes the data.
 Data cleaning and quality checks
 Outlier detection
 Visualization of important metrics such as CPR, CTR, and conversions.
-Power BI Report
 The Power BI report created using Power BI Online, analyzing the campaign performance across various ad sets.
 Includes funnel analysis, conversion rates, cost per result, and other KPIs.
 
